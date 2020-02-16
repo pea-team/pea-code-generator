@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+yarn.lock
+dist/
+
+node_modules
+gql
+gcg.ts
