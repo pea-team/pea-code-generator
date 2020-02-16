@@ -1,6 +1,6 @@
 {
   "name": "pea-code-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pea Code Generator",
   "main": "dist/index.js",
   "scripts": {
