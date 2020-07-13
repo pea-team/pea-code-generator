@@ -31,7 +31,7 @@
   "dependencies": {
     "case": "^1.6.2",
     "fs-jetpack": "^2.2.3",
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "ts-morph": "^6.0.3"
   }
 }
